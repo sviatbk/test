@@ -4,10 +4,12 @@ body {
 
 .container {
     width: 1000px;
+    height: 100px;
     margin: 0 auto;
     background-color: aqua;
 }
 
 .header {
     background-color: gray;
+    height: 200px;
 }
